@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new technogies
 - 🧠 I have excellent problem-solving skills and ability to perform well in a team.
 - ⌨️ Passionate of coding and contribute for the best with my skills for my service.
-- 💬 Ask me about Development, Android, Java, SQL, Full-Stack
+- 💬 Ask me about Web Development, Android, Java, SQL, Full-Stack(MERN)
 - ⚡ Fun fact If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.
 - 📫 How to reach me shreyanshbhagat20@gmail.com
 
